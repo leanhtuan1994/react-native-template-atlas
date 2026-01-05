@@ -4,8 +4,8 @@
 
 ## Documentation Sets
 
-- [Abridged documentation](https://leanhtuan1994.github.io/llms-small.txt): a compact version of the documentation for Atlas Starter | React Native Template, with non-essential content removed
-- [Complete documentation](https://leanhtuan1994.github.io/llms-full.txt): the full documentation for Atlas Starter | React Native Template
+- [Abridged documentation](https://leanhtuan1994.github.io/react-native-template-atlas/llms-small.txt): a compact version of the documentation for Atlas Starter | React Native Template, with non-essential content removed
+- [Complete documentation](https://leanhtuan1994.github.io/react-native-template-atlas/llms-full.txt): the full documentation for Atlas Starter | React Native Template
 
 ## Notes
 
