@@ -1,0 +1,13 @@
+# Atlas Starter | React Native Template
+
+> Your All-in-One Solution for Building Outstanding React Native/Expo Apps. From editor setup to store submission, we've got you covered!
+
+## Documentation Sets
+
+- [Abridged documentation](https://leanhtuan1994.github.io/llms-small.txt): a compact version of the documentation for Atlas Starter | React Native Template, with non-essential content removed
+- [Complete documentation](https://leanhtuan1994.github.io/llms-full.txt): the full documentation for Atlas Starter | React Native Template
+
+## Notes
+
+- The complete documentation includes all content from the official documentation
+- The content is automatically generated from the same source as the official documentation
